@@ -595,7 +595,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Arrays
     - [ ] About Arrays:
-        - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF) (***in progess***)
+        - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF) (***in progress***)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
